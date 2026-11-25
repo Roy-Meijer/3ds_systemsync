@@ -1,0 +1,31 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 21 November 2026 13:29:53
+   Source = K:\
+     Dest : E:\3DS XL SD Backup\
+
+    Files : *.*
+	    
+ Exc Dirs : System Volume Information
+	    
+  Options : *.* /NDL /NFL /S /E /DCOPY:T /COPY:DAT /NP /MT:8 /R:2 /W:2 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :      1223      1222         1         0         0         0
+   Files :      3839      3839         0         0         0         0
+   Bytes :  60.448 g  60.448 g         0         0         0         0
+   Times :  26:44:14   2:49:20                       0:00:00   0:23:04
+
+
+   Speed :           6,388,362 Bytes/sec.
+   Speed :             365.545 MegaBytes/min.
+   Ended : 21 November 2026 16:42:18
+
